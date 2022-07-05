@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ENOENT": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp"
+    }
+}
